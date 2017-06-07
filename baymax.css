@@ -1,8 +1,9 @@
-	body{
-			background: #595959;
-		}
-		#baymax{
-			/*设置为 居中*/
+body{
+	background: #595959;
+}
+
+#baymax{
+	/*设置为 居中*/
     margin: 0 auto;
 
     /*高度*/
@@ -10,8 +11,9 @@
 
     /*隐藏溢出*/
     overflow: hidden;
-		}
-		#head {
+}
+		
+#head {
     height: 64px;
     width: 100px;
 
